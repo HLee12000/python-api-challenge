@@ -15,9 +15,11 @@ In order to run the code, own api keys will be needed, this can be manually inpu
  1. Create python 'api_keys.py'
  2. Place within WeatherPy folder
  3. Copy Paste: 
-    # OpenWeatherMap API Key
-    weather_api_key = ""
-    # GeoApify API Key 
-    geoapify_key = ""
+ ```
+# OpenWeatherMap API Key
+weather_api_key = ""
+# GeoApify API Key 
+geoapify_key = ""
+```
 4. insert own api keys within ""
 5. Save and run the notebooks
